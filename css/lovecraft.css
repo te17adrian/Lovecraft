@@ -1,0 +1,29 @@
+
+main {
+width: 60%;
+margin: 0 auto;
+}
+h1 {
+    font-family: font-family: 'Lobster', sans-serif;
+    font-size: 3em;
+}
+h3 {
+    font-size: 8em;
+    line-height: 0.2;
+}
+h3,h1,h2 {text-align: center}
+p {
+    text-align: center;
+    font-family: font-family; 'Lobster', serif;
+}
+blockquote {
+}
+.signatur {
+    font-weight: bold;
+    text-align: left;
+}
+#kapitel1, #kapitell2{
+    text-align: center;
+}
+span {text-align: left;}
+img {float:left;}
